@@ -8,6 +8,9 @@
 
 // 状态码
 typedef int Status;
+typedef int Bool; 
 // 元素类型
 typedef int ElemType;
+
+
 
